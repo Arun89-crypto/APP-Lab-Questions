@@ -14,3 +14,6 @@
 **APP Lab Session 4 OOPS**
 - Easy Questions (3 questions)
 - Difficult Questions (3 questions)
+
+**APP Lab Session 5 Declarative Programming**
+- Graded Questions (5 questions)
